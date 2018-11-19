@@ -1,0 +1,46 @@
+h1{
+	color:white;
+	background-color:black;
+	padding:40px;
+	text-transform:uppercase;
+	text-align:center;
+}
+img{
+	height:200px;
+	width:200px;
+	margin-left:300px;
+}
+
+h2{
+	color:white;
+	background-color:black;
+	text-transform:uppercase;
+	text-align:center;
+}
+p{
+	margin-left:300px;
+}
+h3{
+	margin-left:300px;
+}	
+ul{
+	margin-left:300px;
+}
+table.second{
+	margin-left:180px;
+}
+a.first{
+	text-decoration:none;
+	color:red;
+	
+}
+a.second{
+	color:red;
+	text-decoration:none;
+	margin-left:300px;
+	
+}
+a:hover{
+	color:blue;
+	background-color:yellow;
+}
